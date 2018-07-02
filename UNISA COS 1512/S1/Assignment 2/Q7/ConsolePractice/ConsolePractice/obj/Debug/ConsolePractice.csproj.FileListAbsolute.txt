@@ -1,0 +1,6 @@
+D:\Users\defaultuser0\Documents\Programs\C# Practice\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.exe.config
+D:\Users\defaultuser0\Documents\Programs\C# Practice\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.exe
+D:\Users\defaultuser0\Documents\Programs\C# Practice\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.pdb
+D:\Users\defaultuser0\Documents\Programs\C# Practice\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csprojResolveAssemblyReference.cache
+D:\Users\defaultuser0\Documents\Programs\C# Practice\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.exe
+D:\Users\defaultuser0\Documents\Programs\C# Practice\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.pdb
